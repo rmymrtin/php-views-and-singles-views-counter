@@ -6,5 +6,5 @@ This small PHP code is a counter of views and single views (with IP address), it
 
 ## Features
 
-- Uniques views with IP adress
+- Uniques views with IP address
 - Views
